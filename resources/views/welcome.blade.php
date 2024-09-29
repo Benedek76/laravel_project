@@ -17,9 +17,8 @@
     @endif
 
     <div class="content">
-        <img src="/img/pizza-house.png" alt="pizza house logo">
-        <div class="title m-b-md">
-            
+        <img src="public/img/pizza-house.png" alt="pizza house logo">
+        <div class="title m-b-md">            
             The Florida's Best Pizzas
         </div> 
         <p class="mssg">{{ session('mssg') }}</p>
